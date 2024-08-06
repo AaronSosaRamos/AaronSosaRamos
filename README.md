@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RadicalAI](https://lab.radicalai.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AaronSosaRamos](https://github.com/AaronSosaRamos)
+- 👨‍💻 All of my projects are available at [Wilfredo Aaron Sosa Ramos | Portfolio](https://wilfredo-sosa-portfolio.vercel.app/)
 
 - 💬 Ask me about **AI Engineering and Scientific knowledge, methodology and best practices**
 
