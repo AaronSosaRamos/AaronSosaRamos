@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronsosaramos" alt="aaronsosaramos" /></a> </p>
 
-- 🔭 I’m currently working on [BoushTech](https://www.boushtech.com/) and [RadicalAI](https://lab.radicalai.app/)
+- 🔭 I’m currently working on [RealityAI](https://www.realityai.tech/) and [BoushTech](https://www.boushtech.com/)
 
 - 👨‍💻 All of my projects are available at [Wilfredo Aaron Sosa Ramos | Portfolio](https://wilfredo-sosa-portfolio.vercel.app/)
 
