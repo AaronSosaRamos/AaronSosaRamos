@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilfredo Aaron Sosa Ramos</h1>
-<h3 align="center">Senior AI Engineer, Software Engineer, DevOps Engineer and Software Architect from Peru</h3>
+<h3 align="center">Senior AI Engineer, Senior Software Engineer, DevOps and Solutions Architect from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronsosaramos&label=Profile%20views&color=0e75b6&style=flat" alt="aaronsosaramos" /> </p>
 
