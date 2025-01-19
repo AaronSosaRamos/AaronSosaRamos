@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronsosaramos" alt="aaronsosaramos" /></a> </p>
 
-- 🔭 I’m currently working on LLMs
+- 🔭 I’m currently working on Large Language Models, Machine Learning, Deep Learning, DevOps, Software and Pure Math
 
 - 👨‍💻 All of my projects are available at [Wilfredo Aaron Sosa Ramos | Portfolio](https://wilfredo-sosa-portfolio.vercel.app/)
 
